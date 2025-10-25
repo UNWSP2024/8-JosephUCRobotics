@@ -16,7 +16,7 @@ import random
 # Make dictionary of states and capitals
 state_capitals = {"Alaska":"Juneau", "Arizona":"Phoenix", "Arkansas":"Little Rock", "California":"Sacramento", "Colorado":"Denver",
                   "Connecticut":"Hartford", "Delaware":"Dover", "Florida":"Tallahassee", "Georgia":"Atlanta", "Hawaii":"Honolulu",
-                  "Idaho":"Boise", "Illinois":"Springfield","Indiana":"Des Moines","Kansas":"Topeka","Kentucky":"Frankfort",
+                  "Idaho":"Boise", "Illinois":"Springfield","Indiana":"Indianapolis","Kansas":"Topeka","Kentucky":"Frankfort",
                   "Louisiana":"Baton Rouge", "Maine":"Augusta", "Maryland":"Annapolis","Massachusetts":"Boston",
                   "Michigan":"Lansing","Minnesota":"Saint Paul", "Mississippi":"Jackson", "Missouri":"Jefferson City",
                   "Montana":"Helena", "Nebraska":"Lincoln", "Nevada":"Carson City", "New Hampshire":"Concord",
